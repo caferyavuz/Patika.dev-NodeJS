@@ -10,4 +10,4 @@ function circleAreaCalc(r){
     console.log(`Yarıçapı ${r} olan dairenin alanı: ${area}`)
 }
 
-circleAreaCalc(arg[0]*1)
+circleAreaCalc(arg[0] * 1)
